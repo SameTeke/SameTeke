@@ -6,7 +6,7 @@ I build e-commerce and ERP software with Node.js and C#. Over roughly seven year
 
 - **[Aracı Burada](https://github.com/SameTeke/araciburada-showcase)** — Vehicle marketplace built with Next.js, TypeScript, Prisma and PostgreSQL. Follow a seller’s five-step vehicle submission and see how staff publish listings for buyers. [Interface walkthrough](https://sctajans.com/referanslar/araciburada/)
 - **[B2B dealer purchasing platform](https://github.com/SameTeke/b2b-dealer-platform)** — Dealers order directly using prices that reflect raw material costs. The ERP receives the price captured at checkout, even after the catalogue changes. [Run the C# pricing example](https://github.com/SameTeke/b2b-dealer-platform/blob/main/OrderPricing.cs)
-- **[Kuyum Studio](https://github.com/SameTeke/kuyum-studio)** — An Electron and TypeScript desktop tool for jewellery wholesalers. It processes product photos in batches and carries each product code into the buyer’s PDF catalogue. [Open the 17-item sample](https://github.com/SameTeke/kuyum-studio/blob/main/sample-catalogue.pdf)
+- **[Kuyum Studio](https://github.com/SameTeke/kuyum-studio)** — An Electron and TypeScript desktop tool for jewellery wholesalers. It processes product photos in batches and carries each product code into the buyer’s PDF catalogue. [Browse 16 photographed rings](https://github.com/SameTeke/kuyum-studio/blob/main/sample-catalogue.pdf) · [Run the resumable Node.js batch example](https://github.com/SameTeke/kuyum-studio/tree/main/batch-example)
 
 ## More work
 
