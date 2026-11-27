@@ -1,12 +1,17 @@
 # Samet Can Teke
 
-I build e-commerce and ERP software with Node.js and C#. Over roughly seven years, much of my work has been about making pricing and ordering work across systems. On my latest B2B project, dealers could place orders directly using prices that reflected current raw material costs. The platform integrated with the company's existing software.
+I build e-commerce and ERP software with Node.js and C#. Over roughly seven years, my work has focused on what happens between a storefront and the systems behind it: how a dealer gets a price, how an order reaches the ERP, and how a catalogue is kept usable as products change.
 
 ## Selected projects
 
-- **[B2B dealer purchasing platform](https://github.com/SameTeke/b2b-dealer-platform)** — My work on dealer ordering and ERP integration, with a runnable C# example showing how an order keeps its checkout price.
-- **[Kuyum Studio](https://github.com/SameTeke/SameTeke/tree/main/projects/kuyum-studio)** — A desktop tool for jewellery wholesalers. It processes batches of product photos and turns them into a buyer’s PDF catalogue with the product code under each image. [Open a sample catalogue](https://github.com/SameTeke/SameTeke/blob/main/projects/kuyum-studio/sample-catalogue.pdf).
-- **[Bilingual wholesale catalogue](https://github.com/SameTeke/SameTeke/tree/main/projects/wholesale-catalogue)** — A catalogue pilot that brings product photographs and Turkish and English descriptions together for editorial review.
-- **[Aracı Burada](https://github.com/SameTeke/araciburada-showcase)** — A vehicle marketplace built with Next.js, TypeScript, Prisma and PostgreSQL. Sellers describe their vehicle in a five-step form, while staff manage the listings buyers can see.
-- **[SCT Ajans](https://sctajans.com/)** — I built my agency’s website with Python-generated pages and a Node.js service that handles project inquiries. The [client portfolio](https://sctajans.com/referanslar/) includes case studies for [İpekyolu Jewellery](https://sctajans.com/referanslar/ipekyolu-jewellery/) and [Aracı Burada](https://sctajans.com/referanslar/araciburada/).
-- **[Team Analytics SaaS](https://github.com/SameTeke/team-analytics-saas)** — A Next.js and TypeScript portfolio demo. It uses mock data to demonstrate workspace onboarding, team management and an analytics dashboard.
+- **[Aracı Burada](https://github.com/SameTeke/araciburada-showcase)** — Vehicle marketplace built with Next.js, TypeScript, Prisma and PostgreSQL. Follow a seller’s five-step vehicle submission and see how staff publish listings for buyers. [Interface walkthrough](https://sctajans.com/referanslar/araciburada/)
+- **[B2B dealer purchasing platform](https://github.com/SameTeke/b2b-dealer-platform)** — Dealers order directly using prices that reflect raw material costs. The ERP receives the price captured at checkout, even after the catalogue changes. [Run the C# pricing example](https://github.com/SameTeke/b2b-dealer-platform/blob/main/OrderPricing.cs)
+- **[Kuyum Studio](https://github.com/SameTeke/kuyum-studio)** — An Electron and TypeScript desktop tool for jewellery wholesalers. It processes product photos in batches and carries each product code into the buyer’s PDF catalogue. [Open the 17-item sample](https://github.com/SameTeke/kuyum-studio/blob/main/sample-catalogue.pdf)
+
+## More work
+
+- **[SCT Ajans](https://sctajans.com/)** — My agency website uses Python-generated pages and a Node.js service for project enquiries. [İpekyolu Jewellery](https://sctajans.com/referanslar/ipekyolu-jewellery/) and [Aracı Burada](https://sctajans.com/referanslar/araciburada/) are two client case studies.
+- **[Bilingual wholesale catalogue](https://github.com/SameTeke/SameTeke/tree/main/projects/wholesale-catalogue)** — A pilot that brings product photographs and Turkish and English descriptions together for editorial review.
+- **[Team Analytics](https://github.com/SameTeke/team-analytics-saas)** — A bilingual Next.js portfolio demo. Explore a fictional team’s dashboard, create a workspace and try its reporting tools. [Open the demo](https://team-analytics-saas.vercel.app/en)
+
+[Contact me on LinkedIn](https://www.linkedin.com/in/samet-t/)
