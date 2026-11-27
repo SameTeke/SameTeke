@@ -1,5 +1,7 @@
 # B2B dealer purchasing platform
 
+[Open the full project and runnable C# example](https://github.com/SameTeke/b2b-dealer-platform).
+
 I worked on a B2B purchasing platform where dealers could order directly. It integrated with the company's existing software and used current raw material prices. This case study describes the purchasing workflow and one engineering decision from the .NET backend.
 
 ## Why pricing needs context
