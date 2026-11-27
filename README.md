@@ -4,6 +4,6 @@ I build e-commerce and ERP software with Node.js and C#. Over roughly seven year
 
 ## Selected projects
 
-- **[B2B dealer purchasing platform](https://github.com/SameTeke/SameTeke/tree/main/projects/b2b-dealer-platform)** — A case study from my work on dealer ordering, ERP integration and multi-currency pricing in .NET.
+- **[B2B dealer purchasing platform](https://github.com/SameTeke/b2b-dealer-platform)** — My work on dealer ordering and ERP integration, with a runnable C# example showing how an order keeps its checkout price.
 - **[Otoşipşak](https://github.com/SameTeke/otosipsak)** — A vehicle marketplace built with Next.js, TypeScript, Prisma and PostgreSQL. Follow a listing from an admin's draft, through image uploads, to the public catalogue.
 - **[Team Analytics SaaS](https://github.com/SameTeke/team-analytics-saas)** — A Next.js and TypeScript portfolio demo. It uses mock data to demonstrate workspace onboarding, team management and an analytics dashboard.
